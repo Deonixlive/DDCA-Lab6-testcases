@@ -1,5 +1,6 @@
 // Author: Dimetri Chau
 // https://github.com/Deonixlive/DDCA-Lab6-testcases
+// 50 test cases
 
 A_______F890257F___3DFF3726___00000001
 5_______902F628D___D4D9B7CA___D4FFF7CF
